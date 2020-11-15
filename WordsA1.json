@@ -1,0 +1,3612 @@
+﻿{
+    "WordsA1": [
+        {
+            "word": "a, an indefinite article",
+            "mean": "a, belirsiz bir makale"
+        },
+        {
+            "word": "about prep., adv.",
+            "mean": "hazırlık hakkında,"
+        },
+        {
+            "word": "above prep., adv.",
+            "mean": "yukarıdaki hazırlık,"
+        },
+        {
+            "word": "across prep., adv.",
+            "mean": "hazırlık."
+        },
+        {
+            "word": "action n.",
+            "mean": "eylem"
+        },
+        {
+            "word": "activity n.",
+            "mean": "aktivite"
+        },
+        {
+            "word": "actor n.",
+            "mean": "aktör"
+        },
+        {
+            "word": "actress n.",
+            "mean": "oyuncu"
+        },
+        {
+            "word": "add v.",
+            "mean": "eklemek"
+        },
+        {
+            "word": "address n.",
+            "mean": "adres"
+        },
+        {
+            "word": "adult n.",
+            "mean": "yetişkin"
+        },
+        {
+            "word": "advice n.",
+            "mean": "tavsiye"
+        },
+        {
+            "word": "afraid adj.",
+            "mean": "korkmuş"
+        },
+        {
+            "word": "after prep.",
+            "mean": "hazırlandıktan sonra."
+        },
+        {
+            "word": "afternoon n.",
+            "mean": "öğleden sonra"
+        },
+        {
+            "word": "again adv.",
+            "mean": "tekrar"
+        },
+        {
+            "word": "age n.",
+            "mean": "yaş"
+        },
+        {
+            "word": "ago adv.",
+            "mean": "önce"
+        },
+        {
+            "word": "agree v.",
+            "mean": "kabul etmek"
+        },
+        {
+            "word": "air n.",
+            "mean": "hava"
+        },
+        {
+            "word": "airport n.",
+            "mean": "havaalanı"
+        },
+        {
+            "word": "all det., pron.",
+            "mean": "tüm det., pron."
+        },
+        {
+            "word": "also adv.",
+            "mean": "ayrıca"
+        },
+        {
+            "word": "always adv.",
+            "mean": "her zaman"
+        },
+        {
+            "word": "amazing adj.",
+            "mean": "inanılmaz"
+        },
+        {
+            "word": "and conj.",
+            "mean": "ve bağ."
+        },
+        {
+            "word": "angry adj.",
+            "mean": "kızgın"
+        },
+        {
+            "word": "animal n.",
+            "mean": "hayvan"
+        },
+        {
+            "word": "another det./pron.",
+            "mean": "başka bir det./pron."
+        },
+        {
+            "word": "answer n., v.",
+            "mean": "cevap n., v."
+        },
+        {
+            "word": "any det., pron.",
+            "mean": "herhangi bir det., pron."
+        },
+        {
+            "word": "anyone pron.",
+            "mean": "kimse pron."
+        },
+        {
+            "word": "anything pron.",
+            "mean": "herhangi bir şey."
+        },
+        {
+            "word": "apartment n.",
+            "mean": "daire"
+        },
+        {
+            "word": "apple n.",
+            "mean": "elma"
+        },
+        {
+            "word": "April n.",
+            "mean": "Nisan"
+        },
+        {
+            "word": "area n.",
+            "mean": "alan"
+        },
+        {
+            "word": "arm n.",
+            "mean": "kol"
+        },
+        {
+            "word": "around prep., adv.",
+            "mean": "etrafında hazırlık,"
+        },
+        {
+            "word": "arrive v.",
+            "mean": "varmak"
+        },
+        {
+            "word": "art n.",
+            "mean": "sanat"
+        },
+        {
+            "word": "article n.",
+            "mean": "makale"
+        },
+        {
+            "word": "artist n.",
+            "mean": "sanatçı"
+        },
+        {
+            "word": "as prep.",
+            "mean": "hazırlık olarak"
+        },
+        {
+            "word": "ask v.",
+            "mean": "sormak"
+        },
+        {
+            "word": "at prep.",
+            "mean": "hazırlık aşamasında"
+        },
+        {
+            "word": "August n.",
+            "mean": "Ağustos"
+        },
+        {
+            "word": "aunt n.",
+            "mean": "teyze"
+        },
+        {
+            "word": "autumn n.",
+            "mean": "sonbahar"
+        },
+        {
+            "word": "away adv.",
+            "mean": "uzakta"
+        },
+        {
+            "word": "baby n.",
+            "mean": "bebek"
+        },
+        {
+            "word": "back n., adv.",
+            "mean": "geri"
+        },
+        {
+            "word": "bad adj.",
+            "mean": "kötü"
+        },
+        {
+            "word": "bag n.",
+            "mean": "çanta"
+        },
+        {
+            "word": "ball n.",
+            "mean": "top"
+        },
+        {
+            "word": "banana n.",
+            "mean": "muz"
+        },
+        {
+            "word": "band n.",
+            "mean": "grup"
+        },
+        {
+            "word": "bank (money) n.",
+            "mean": "banka (para)"
+        },
+        {
+            "word": "bath n.",
+            "mean": "banyo"
+        },
+        {
+            "word": "bathroom n.",
+            "mean": "banyo"
+        },
+        {
+            "word": "be v., auxiliary v.",
+            "mean": "yardımcı olmak"
+        },
+        {
+            "word": "beach n.",
+            "mean": "plaj"
+        },
+        {
+            "word": "beautiful adj.",
+            "mean": "güzel"
+        },
+        {
+            "word": "because conj.",
+            "mean": "çünkü bağlam"
+        },
+        {
+            "word": "become v.",
+            "mean": "olmak"
+        },
+        {
+            "word": "bed n.",
+            "mean": "yatak"
+        },
+        {
+            "word": "bedroom n.",
+            "mean": "yatak odası"
+        },
+        {
+            "word": "beer n.",
+            "mean": "bira"
+        },
+        {
+            "word": "before prep.",
+            "mean": "hazırlık öncesi"
+        },
+        {
+            "word": "begin v.",
+            "mean": "başlamak"
+        },
+        {
+            "word": "beginning n.",
+            "mean": "başlangıç"
+        },
+        {
+            "word": "behind prep., adv.",
+            "mean": "hazırlığın arkasında,"
+        },
+        {
+            "word": "believe v.",
+            "mean": "inanmak"
+        },
+        {
+            "word": "below adv., prep.",
+            "mean": "aşağıda"
+        },
+        {
+            "word": "best adj.",
+            "mean": "en iyi"
+        },
+        {
+            "word": "better adj.",
+            "mean": "daha iyi"
+        },
+        {
+            "word": "between prep.",
+            "mean": "hazırlık."
+        },
+        {
+            "word": "bicycle n.",
+            "mean": "bisiklet"
+        },
+        {
+            "word": "big adj.",
+            "mean": "büyük"
+        },
+        {
+            "word": "bike n.",
+            "mean": "bisiklet"
+        },
+        {
+            "word": "bill n.",
+            "mean": "fatura"
+        },
+        {
+            "word": "bird n.",
+            "mean": "kuş"
+        },
+        {
+            "word": "birthday n.",
+            "mean": "doğum günü"
+        },
+        {
+            "word": "black adj., n.",
+            "mean": "siyah adj."
+        },
+        {
+            "word": "blog n.",
+            "mean": "blog"
+        },
+        {
+            "word": "blonde adj.",
+            "mean": "sarışın"
+        },
+        {
+            "word": "blue adj., n.",
+            "mean": "mavi adj."
+        },
+        {
+            "word": "boat n.",
+            "mean": "tekne"
+        },
+        {
+            "word": "body n.",
+            "mean": "beden"
+        },
+        {
+            "word": "book n.",
+            "mean": "kitap"
+        },
+        {
+            "word": "boot n.",
+            "mean": "çizme"
+        },
+        {
+            "word": "bored adj.",
+            "mean": "sıkılmış"
+        },
+        {
+            "word": "boring adj.",
+            "mean": "sıkıcı"
+        },
+        {
+            "word": "born v.",
+            "mean": "doğmak"
+        },
+        {
+            "word": "both det./pron.",
+            "mean": "her ikisi de det./pron."
+        },
+        {
+            "word": "bottle n.",
+            "mean": "şişe"
+        },
+        {
+            "word": "box n.",
+            "mean": "kutu"
+        },
+        {
+            "word": "boy n.",
+            "mean": "erkek çocuk"
+        },
+        {
+            "word": "boyfriend n.",
+            "mean": "erkek arkadaş"
+        },
+        {
+            "word": "bread n.",
+            "mean": "ekmek"
+        },
+        {
+            "word": "break v., n.",
+            "mean": "ara vermek"
+        },
+        {
+            "word": "breakfast n.",
+            "mean": "kahvaltı"
+        },
+        {
+            "word": "bring v.",
+            "mean": "getirmek"
+        },
+        {
+            "word": "brother n.",
+            "mean": "erkek kardeş"
+        },
+        {
+            "word": "brown adj., n.",
+            "mean": "kahverengi"
+        },
+        {
+            "word": "build v.",
+            "mean": "inşa etmek"
+        },
+        {
+            "word": "building n.",
+            "mean": "bina"
+        },
+        {
+            "word": "bus n.",
+            "mean": "otobüs"
+        },
+        {
+            "word": "business n.",
+            "mean": "iş"
+        },
+        {
+            "word": "busy adj.",
+            "mean": "meşgul"
+        },
+        {
+            "word": "but conj.",
+            "mean": "fakat eş."
+        },
+        {
+            "word": "butter n.",
+            "mean": "tereyağı"
+        },
+        {
+            "word": "buy v.",
+            "mean": "satın almak"
+        },
+        {
+            "word": "by prep.",
+            "mean": "hazırlayan."
+        },
+        {
+            "word": "bye exclam.",
+            "mean": "güle güle exclam."
+        },
+        {
+            "word": "cafe n.",
+            "mean": "kafe"
+        },
+        {
+            "word": "cake n.",
+            "mean": "kek"
+        },
+        {
+            "word": "call v., n.",
+            "mean": "aramak"
+        },
+        {
+            "word": "camera n.",
+            "mean": "kamera"
+        },
+        {
+            "word": "can1 modal v.",
+            "mean": "can1 modeli"
+        },
+        {
+            "word": "cannot modal v.",
+            "mean": "kalıcı olamaz"
+        },
+        {
+            "word": "capital n., adj.",
+            "mean": "sermaye"
+        },
+        {
+            "word": "car n.",
+            "mean": "araba"
+        },
+        {
+            "word": "card n.",
+            "mean": "kart"
+        },
+        {
+            "word": "career n.",
+            "mean": "kariyer"
+        },
+        {
+            "word": "carrot n.",
+            "mean": "havuç"
+        },
+        {
+            "word": "carry v.",
+            "mean": "taşımak"
+        },
+        {
+            "word": "cat n.",
+            "mean": "kedi"
+        },
+        {
+            "word": "CD n.",
+            "mean": "CD"
+        },
+        {
+            "word": "cent n.",
+            "mean": "yüzde"
+        },
+        {
+            "word": "centre n.",
+            "mean": "merkez"
+        },
+        {
+            "word": "century n.",
+            "mean": "yüzyıl"
+        },
+        {
+            "word": "chair n.",
+            "mean": "sandalye"
+        },
+        {
+            "word": "change v., n.",
+            "mean": "değişiklik yapmak"
+        },
+        {
+            "word": "chart n.",
+            "mean": "grafik"
+        },
+        {
+            "word": "cheap adj.",
+            "mean": "ucuz"
+        },
+        {
+            "word": "check v.",
+            "mean": "kontrol etmek"
+        },
+        {
+            "word": "cheese n.",
+            "mean": "peynir"
+        },
+        {
+            "word": "chicken n.",
+            "mean": "tavuk"
+        },
+        {
+            "word": "child n.",
+            "mean": "çocuk"
+        },
+        {
+            "word": "chocolate n.",
+            "mean": "çikolata"
+        },
+        {
+            "word": "choose v.",
+            "mean": "seçmek"
+        },
+        {
+            "word": "cinema n.",
+            "mean": "sinema"
+        },
+        {
+            "word": "city n.",
+            "mean": "şehir"
+        },
+        {
+            "word": "class n.",
+            "mean": "sınıf"
+        },
+        {
+            "word": "classroom n.",
+            "mean": "sınıf"
+        },
+        {
+            "word": "clean adj., v.",
+            "mean": "temiz"
+        },
+        {
+            "word": "climb v.",
+            "mean": "tırmanmak"
+        },
+        {
+            "word": "clock n.",
+            "mean": "saat"
+        },
+        {
+            "word": "close1 v.",
+            "mean": "kapat1"
+        },
+        {
+            "word": "clothes n.",
+            "mean": "kıyafetler"
+        },
+        {
+            "word": "club n.",
+            "mean": "kulüp"
+        },
+        {
+            "word": "coat n.",
+            "mean": "ceket"
+        },
+        {
+            "word": "coffee n.",
+            "mean": "kahve"
+        },
+        {
+            "word": "cold adj., n.",
+            "mean": "soğuk adj."
+        },
+        {
+            "word": "college n.",
+            "mean": "kolej"
+        },
+        {
+            "word": "colour n.",
+            "mean": "renk"
+        },
+        {
+            "word": "come v.",
+            "mean": "gelmek"
+        },
+        {
+            "word": "common adj.",
+            "mean": "ortak"
+        },
+        {
+            "word": "company n.",
+            "mean": "şirket"
+        },
+        {
+            "word": "compare v.",
+            "mean": "karşılaştırmak"
+        },
+        {
+            "word": "complete adj., v.",
+            "mean": "tam"
+        },
+        {
+            "word": "computer n.",
+            "mean": "bilgisayar"
+        },
+        {
+            "word": "concert n.",
+            "mean": "konser"
+        },
+        {
+            "word": "conversation n.",
+            "mean": "konuşma"
+        },
+        {
+            "word": "cook v.",
+            "mean": "yemek yapmak"
+        },
+        {
+            "word": "cooking n.",
+            "mean": "yemek pişirme"
+        },
+        {
+            "word": "cool adj.",
+            "mean": "havalı"
+        },
+        {
+            "word": "correct adj., v.",
+            "mean": "doğru adj."
+        },
+        {
+            "word": "cost n., v.",
+            "mean": "maliyet"
+        },
+        {
+            "word": "could modal v.",
+            "mean": "kalıcı olabilir"
+        },
+        {
+            "word": "country n.",
+            "mean": "ülke"
+        },
+        {
+            "word": "course n.",
+            "mean": "kurs"
+        },
+        {
+            "word": "cousin n.",
+            "mean": "kuzen"
+        },
+        {
+            "word": "cow n.",
+            "mean": "inek"
+        },
+        {
+            "word": "cream n.",
+            "mean": "krem"
+        },
+        {
+            "word": "create v.",
+            "mean": "oluşturmak"
+        },
+        {
+            "word": "culture n.",
+            "mean": "kültür"
+        },
+        {
+            "word": "cup n.",
+            "mean": "fincan"
+        },
+        {
+            "word": "customer n.",
+            "mean": "müşteri"
+        },
+        {
+            "word": "cut v.",
+            "mean": "kesmek"
+        },
+        {
+            "word": "dad n.",
+            "mean": "baba"
+        },
+        {
+            "word": "dance n., v.",
+            "mean": "dans etmek"
+        },
+        {
+            "word": "dancer n.",
+            "mean": "dansçı"
+        },
+        {
+            "word": "dancing n.",
+            "mean": "dans etmek"
+        },
+        {
+            "word": "dangerous adj.",
+            "mean": "tehlikeli"
+        },
+        {
+            "word": "dark adj.",
+            "mean": "karanlık"
+        },
+        {
+            "word": "date n.",
+            "mean": "tarih"
+        },
+        {
+            "word": "daughter n.",
+            "mean": "kızı"
+        },
+        {
+            "word": "day n.",
+            "mean": "gün"
+        },
+        {
+            "word": "dear adj.",
+            "mean": "sevgili"
+        },
+        {
+            "word": "December n.",
+            "mean": "Aralık"
+        },
+        {
+            "word": "decide v.",
+            "mean": "karar vermek"
+        },
+        {
+            "word": "delicious adj.",
+            "mean": "lezzetli"
+        },
+        {
+            "word": "describe v.",
+            "mean": "tanımlamak"
+        },
+        {
+            "word": "description n.",
+            "mean": "açıklama"
+        },
+        {
+            "word": "design n., v.",
+            "mean": "tasarım"
+        },
+        {
+            "word": "desk n.",
+            "mean": "çalışma masası"
+        },
+        {
+            "word": "detail n.",
+            "mean": "ayrıntı"
+        },
+        {
+            "word": "dialogue n.",
+            "mean": "diyalog"
+        },
+        {
+            "word": "dictionary n.",
+            "mean": "sözlük"
+        },
+        {
+            "word": "die v.",
+            "mean": "ölmek"
+        },
+        {
+            "word": "diet n.",
+            "mean": "diyet"
+        },
+        {
+            "word": "difference n.",
+            "mean": "fark"
+        },
+        {
+            "word": "different adj.",
+            "mean": "farklı"
+        },
+        {
+            "word": "difficult adj.",
+            "mean": "zor"
+        },
+        {
+            "word": "dinner n.",
+            "mean": "akşam yemeği"
+        },
+        {
+            "word": "dirty adj.",
+            "mean": "kirli"
+        },
+        {
+            "word": "discuss v.",
+            "mean": "tartışmak"
+        },
+        {
+            "word": "dish n.",
+            "mean": "yemek"
+        },
+        {
+            "word": "do1 v., auxiliary v.",
+            "mean": "do1 v., yardımcı"
+        },
+        {
+            "word": "doctor n.",
+            "mean": "doktor"
+        },
+        {
+            "word": "dog n.",
+            "mean": "köpek"
+        },
+        {
+            "word": "dollar n.",
+            "mean": "dolar"
+        },
+        {
+            "word": "door n.",
+            "mean": "kapı"
+        },
+        {
+            "word": "down adv., prep.",
+            "mean": "aşağı"
+        },
+        {
+            "word": "downstairs adv.",
+            "mean": "alt katta"
+        },
+        {
+            "word": "draw v.",
+            "mean": "çizmek"
+        },
+        {
+            "word": "dress n., v.",
+            "mean": "elbise"
+        },
+        {
+            "word": "drink n., v.",
+            "mean": "içki içmek"
+        },
+        {
+            "word": "drive v.",
+            "mean": "sürücü"
+        },
+        {
+            "word": "driver n.",
+            "mean": "sürücü"
+        },
+        {
+            "word": "during prep.",
+            "mean": "hazırlık sırasında"
+        },
+        {
+            "word": "DVD n.",
+            "mean": "DVD"
+        },
+        {
+            "word": "each det./pron./adv.",
+            "mean": "her bir det./pron./adv."
+        },
+        {
+            "word": "ear n.",
+            "mean": "kulak"
+        },
+        {
+            "word": "early adj., adv.",
+            "mean": "erken"
+        },
+        {
+            "word": "east n., adj., adv.",
+            "mean": "east n., adj., adv."
+        },
+        {
+            "word": "easy adj.",
+            "mean": "kolay"
+        },
+        {
+            "word": "eat v.",
+            "mean": "yemek yemek"
+        },
+        {
+            "word": "egg n.",
+            "mean": "yumurta"
+        },
+        {
+            "word": "eight number",
+            "mean": "sekiz numara"
+        },
+        {
+            "word": "eighteen number",
+            "mean": "on sekiz numara"
+        },
+        {
+            "word": "eighty number",
+            "mean": "seksen numara"
+        },
+        {
+            "word": "elephant n.",
+            "mean": "fil"
+        },
+        {
+            "word": "eleven number",
+            "mean": "on bir numara"
+        },
+        {
+            "word": "else adv.",
+            "mean": "başka"
+        },
+        {
+            "word": "email n., v.",
+            "mean": "e-posta"
+        },
+        {
+            "word": "end n., v.",
+            "mean": "bitiş"
+        },
+        {
+            "word": "enjoy v.",
+            "mean": "zevk almak"
+        },
+        {
+            "word": "enough det., pron., adv.",
+            "mean": "yeterli det., pron.,"
+        },
+        {
+            "word": "euro n.",
+            "mean": "euro"
+        },
+        {
+            "word": "even adv.",
+            "mean": "hatta"
+        },
+        {
+            "word": "evening n.",
+            "mean": "akşam"
+        },
+        {
+            "word": "event n.",
+            "mean": "olay"
+        },
+        {
+            "word": "ever adv.",
+            "mean": "hiç"
+        },
+        {
+            "word": "every det.",
+            "mean": "her det."
+        },
+        {
+            "word": "everybody pron.",
+            "mean": "herkes yüzüstü."
+        },
+        {
+            "word": "everyone pron.",
+            "mean": "herkes pron."
+        },
+        {
+            "word": "everything pron.",
+            "mean": "her şey pron."
+        },
+        {
+            "word": "exam n.",
+            "mean": "sınav"
+        },
+        {
+            "word": "example n.",
+            "mean": "örnek n"
+        },
+        {
+            "word": "excited adj.",
+            "mean": "heyecanlı"
+        },
+        {
+            "word": "exciting adj.",
+            "mean": "heyecan verici"
+        },
+        {
+            "word": "exercise n., v.",
+            "mean": "egzersiz"
+        },
+        {
+            "word": "expensive adj.",
+            "mean": "pahalı"
+        },
+        {
+            "word": "explain v.",
+            "mean": "açıklamak"
+        },
+        {
+            "word": "extra adj.",
+            "mean": "ekstra"
+        },
+        {
+            "word": "eye n.",
+            "mean": "göz"
+        },
+        {
+            "word": "face n.",
+            "mean": "yüz"
+        },
+        {
+            "word": "fact n.",
+            "mean": "gerçek"
+        },
+        {
+            "word": "fall v.",
+            "mean": "düşmek"
+        },
+        {
+            "word": "false adj.",
+            "mean": "yanlış"
+        },
+        {
+            "word": "family n., adj.",
+            "mean": "aile"
+        },
+        {
+            "word": "famous adj.",
+            "mean": "ünlü"
+        },
+        {
+            "word": "fantastic adj.",
+            "mean": "fantastik"
+        },
+        {
+            "word": "far adv.",
+            "mean": "uzak"
+        },
+        {
+            "word": "farm n.",
+            "mean": "çiftlik"
+        },
+        {
+            "word": "farmer n.",
+            "mean": "çiftçi"
+        },
+        {
+            "word": "fast adj., adv.",
+            "mean": "hızlı adj."
+        },
+        {
+            "word": "fat adj.",
+            "mean": "şişman"
+        },
+        {
+            "word": "father n.",
+            "mean": "baba"
+        },
+        {
+            "word": "favourite adj., n.",
+            "mean": "favori adj."
+        },
+        {
+            "word": "February n.",
+            "mean": "Şubat"
+        },
+        {
+            "word": "feel v.",
+            "mean": "hissetmek"
+        },
+        {
+            "word": "feeling n.",
+            "mean": "duygu"
+        },
+        {
+            "word": "festival n.",
+            "mean": "festival"
+        },
+        {
+            "word": "few det./adj., pron.",
+            "mean": "az sayıda det./adj., pron."
+        },
+        {
+            "word": "fifteen number",
+            "mean": "on beş sayı"
+        },
+        {
+            "word": "fifth number",
+            "mean": "beşinci sayı"
+        },
+        {
+            "word": "fifty number",
+            "mean": "elli sayı"
+        },
+        {
+            "word": "fill v.",
+            "mean": "doldurmak"
+        },
+        {
+            "word": "film n.",
+            "mean": "film"
+        },
+        {
+            "word": "final adj.",
+            "mean": "son"
+        },
+        {
+            "word": "find v.",
+            "mean": "bulmak"
+        },
+        {
+            "word": "fine adj.",
+            "mean": "güzel"
+        },
+        {
+            "word": "finish v.",
+            "mean": "bitirmek"
+        },
+        {
+            "word": "fire n.",
+            "mean": "ateş"
+        },
+        {
+            "word": "first det./number, adv.",
+            "mean": "ilk det./number, zarf"
+        },
+        {
+            "word": "fish n.",
+            "mean": "balık"
+        },
+        {
+            "word": "five number",
+            "mean": "beş numara"
+        },
+        {
+            "word": "flat n.",
+            "mean": "düz"
+        },
+        {
+            "word": "flight n.",
+            "mean": "uçuş"
+        },
+        {
+            "word": "floor n.",
+            "mean": "kat"
+        },
+        {
+            "word": "flower n.",
+            "mean": "çiçek"
+        },
+        {
+            "word": "fly v.",
+            "mean": "uçmak"
+        },
+        {
+            "word": "follow v.",
+            "mean": "takip etmek"
+        },
+        {
+            "word": "food n.",
+            "mean": "yiyecek"
+        },
+        {
+            "word": "foot n.",
+            "mean": "ayak"
+        },
+        {
+            "word": "football n.",
+            "mean": "futbol"
+        },
+        {
+            "word": "for prep.",
+            "mean": "hazırlık için"
+        },
+        {
+            "word": "forget v.",
+            "mean": "unutmak"
+        },
+        {
+            "word": "form n., v.",
+            "mean": "form n., v."
+        },
+        {
+            "word": "forty number",
+            "mean": "kırk sayı"
+        },
+        {
+            "word": "four number",
+            "mean": "dört numara"
+        },
+        {
+            "word": "fourteen number",
+            "mean": "on dört numara"
+        },
+        {
+            "word": "fourth number",
+            "mean": "dördüncü sayı"
+        },
+        {
+            "word": "free adj.",
+            "mean": "ücretsiz"
+        },
+        {
+            "word": "Friday n.",
+            "mean": "Cuma"
+        },
+        {
+            "word": "friend n.",
+            "mean": "arkadaş"
+        },
+        {
+            "word": "friendly adj.",
+            "mean": "arkadaşça"
+        },
+        {
+            "word": "from prep.",
+            "mean": "hazırlık."
+        },
+        {
+            "word": "front n., adj.",
+            "mean": "ön"
+        },
+        {
+            "word": "fruit n.",
+            "mean": "meyve"
+        },
+        {
+            "word": "full adj.",
+            "mean": "tam"
+        },
+        {
+            "word": "fun n.",
+            "mean": "eğlence"
+        },
+        {
+            "word": "funny adj.",
+            "mean": "komik"
+        },
+        {
+            "word": "future n.",
+            "mean": "gelecek"
+        },
+        {
+            "word": "game n.",
+            "mean": "oyun"
+        },
+        {
+            "word": "garden n.",
+            "mean": "bahçe"
+        },
+        {
+            "word": "geography n.",
+            "mean": "coğrafya"
+        },
+        {
+            "word": "get v.",
+            "mean": "almak"
+        },
+        {
+            "word": "girl n.",
+            "mean": "kız"
+        },
+        {
+            "word": "girlfriend n.",
+            "mean": "kız arkadaş"
+        },
+        {
+            "word": "give v.",
+            "mean": "vermek"
+        },
+        {
+            "word": "glass n.",
+            "mean": "bardak"
+        },
+        {
+            "word": "go v.",
+            "mean": "gitmek"
+        },
+        {
+            "word": "good adj.",
+            "mean": "iyi"
+        },
+        {
+            "word": "goodbye exclam./n.",
+            "mean": "elveda exclam./n."
+        },
+        {
+            "word": "grandfather n.",
+            "mean": "büyükbaba"
+        },
+        {
+            "word": "grandmother n.",
+            "mean": "büyükanne"
+        },
+        {
+            "word": "grandparent n.",
+            "mean": "büyükbaba veya büyükanne"
+        },
+        {
+            "word": "great adj.",
+            "mean": "harika"
+        },
+        {
+            "word": "green adj., n.",
+            "mean": "yeşil"
+        },
+        {
+            "word": "grey adj., n.",
+            "mean": "gri adj."
+        },
+        {
+            "word": "group n.",
+            "mean": "grup"
+        },
+        {
+            "word": "grow v.",
+            "mean": "büyümek"
+        },
+        {
+            "word": "guess v., n.",
+            "mean": "tahmin etmek"
+        },
+        {
+            "word": "guitar n.",
+            "mean": "gitar"
+        },
+        {
+            "word": "gym n.",
+            "mean": "spor salonu"
+        },
+        {
+            "word": "hair n.",
+            "mean": "saç"
+        },
+        {
+            "word": "half n., det./pron.",
+            "mean": "yarım n., det./pron."
+        },
+        {
+            "word": "hand n.",
+            "mean": "el"
+        },
+        {
+            "word": "happen v.",
+            "mean": "olmak"
+        },
+        {
+            "word": "happy adj.",
+            "mean": "mutlu"
+        },
+        {
+            "word": "hard adj., adv.",
+            "mean": "sert"
+        },
+        {
+            "word": "hat n.",
+            "mean": "şapka"
+        },
+        {
+            "word": "hate v.",
+            "mean": "nefret etmek"
+        },
+        {
+            "word": "have v.",
+            "mean": "olmak"
+        },
+        {
+            "word": "have to modal v.",
+            "mean": "kalıcı olmak"
+        },
+        {
+            "word": "he pron.",
+            "mean": "pron."
+        },
+        {
+            "word": "head n.",
+            "mean": "kafa"
+        },
+        {
+            "word": "health n.",
+            "mean": "sağlık"
+        },
+        {
+            "word": "healthy adj.",
+            "mean": "sağlıklı"
+        },
+        {
+            "word": "hear v.",
+            "mean": "duymak"
+        },
+        {
+            "word": "hello exclam./n.",
+            "mean": "merhaba exclam./n."
+        },
+        {
+            "word": "help v., n.",
+            "mean": "yardım etmek"
+        },
+        {
+            "word": "her pron., det.",
+            "mean": "onun pron., det."
+        },
+        {
+            "word": "here adv.",
+            "mean": "burada"
+        },
+        {
+            "word": "hey exclam.",
+            "mean": "hey exclam."
+        },
+        {
+            "word": "hi exclam.",
+            "mean": "merhaba exclam."
+        },
+        {
+            "word": "high adj.",
+            "mean": "yüksek"
+        },
+        {
+            "word": "him pron.",
+            "mean": "onu pron."
+        },
+        {
+            "word": "his det.",
+            "mean": "onun det."
+        },
+        {
+            "word": "history n.",
+            "mean": "tarih"
+        },
+        {
+            "word": "hobby n.",
+            "mean": "hobi"
+        },
+        {
+            "word": "holiday n.",
+            "mean": "tatil"
+        },
+        {
+            "word": "home n., adv.",
+            "mean": "ev"
+        },
+        {
+            "word": "homework n.",
+            "mean": "ödev"
+        },
+        {
+            "word": "hope v.",
+            "mean": "umut"
+        },
+        {
+            "word": "horse n.",
+            "mean": "at"
+        },
+        {
+            "word": "hospital n.",
+            "mean": "hastane"
+        },
+        {
+            "word": "hot adj.",
+            "mean": "sıcak"
+        },
+        {
+            "word": "hotel n.",
+            "mean": "otel"
+        },
+        {
+            "word": "hour n.",
+            "mean": "saat"
+        },
+        {
+            "word": "house n.",
+            "mean": "ev"
+        },
+        {
+            "word": "how adv.",
+            "mean": "nasıl"
+        },
+        {
+            "word": "however adv.",
+            "mean": "ancak"
+        },
+        {
+            "word": "hundred number",
+            "mean": "yüz sayısı"
+        },
+        {
+            "word": "hungry adj.",
+            "mean": "aç"
+        },
+        {
+            "word": "husband n.",
+            "mean": "koca"
+        },
+        {
+            "word": "I pron.",
+            "mean": "Ben pron."
+        },
+        {
+            "word": "ice n.",
+            "mean": "buz"
+        },
+        {
+            "word": "ice cream n.",
+            "mean": "dondurma"
+        },
+        {
+            "word": "idea n.",
+            "mean": "fikir"
+        },
+        {
+            "word": "if conj.",
+            "mean": "eğer con."
+        },
+        {
+            "word": "imagine v.",
+            "mean": "hayal etmek"
+        },
+        {
+            "word": "important adj.",
+            "mean": "önemli"
+        },
+        {
+            "word": "improve v.",
+            "mean": "geliştirmek"
+        },
+        {
+            "word": "in prep., adv.",
+            "mean": "hazırlık, zarf"
+        },
+        {
+            "word": "include v.",
+            "mean": "dahil etmek"
+        },
+        {
+            "word": "information n.",
+            "mean": "bilgi"
+        },
+        {
+            "word": "interest n., v.",
+            "mean": "faiz"
+        },
+        {
+            "word": "interested adj.",
+            "mean": "ilgilenen"
+        },
+        {
+            "word": "interesting adj.",
+            "mean": "ilginç"
+        },
+        {
+            "word": "internet n.",
+            "mean": "internet"
+        },
+        {
+            "word": "interview n., v.",
+            "mean": "röportaj"
+        },
+        {
+            "word": "into prep.",
+            "mean": "hazırlanmak"
+        },
+        {
+            "word": "introduce v.",
+            "mean": "tanıtmak"
+        },
+        {
+            "word": "island n.",
+            "mean": "ada"
+        },
+        {
+            "word": "it pron.",
+            "mean": "pron."
+        },
+        {
+            "word": "its det.",
+            "mean": "onun det."
+        },
+        {
+            "word": "jacket n.",
+            "mean": "ceket"
+        },
+        {
+            "word": "January n.",
+            "mean": "Ocak n."
+        },
+        {
+            "word": "jeans n.",
+            "mean": "kot pantolon"
+        },
+        {
+            "word": "job n.",
+            "mean": "iş"
+        },
+        {
+            "word": "join v.",
+            "mean": "katılmak"
+        },
+        {
+            "word": "journey n.",
+            "mean": "yolculuk"
+        },
+        {
+            "word": "juice n.",
+            "mean": "meyve suyu"
+        },
+        {
+            "word": "July n.",
+            "mean": "Temmuz"
+        },
+        {
+            "word": "June n.",
+            "mean": "Haziran"
+        },
+        {
+            "word": "just adv.",
+            "mean": "sadece"
+        },
+        {
+            "word": "keep v.",
+            "mean": "tutmak"
+        },
+        {
+            "word": "key n., adj.",
+            "mean": "anahtar n."
+        },
+        {
+            "word": "kilometre n.",
+            "mean": "kilometre"
+        },
+        {
+            "word": "kind (type) n.",
+            "mean": "tür (tür)"
+        },
+        {
+            "word": "kitchen n.",
+            "mean": "mutfak"
+        },
+        {
+            "word": "know v.",
+            "mean": "bilmek"
+        },
+        {
+            "word": "land n.",
+            "mean": "arazi"
+        },
+        {
+            "word": "language n.",
+            "mean": "dil"
+        },
+        {
+            "word": "large adj.",
+            "mean": "büyük"
+        },
+        {
+            "word": "last1 (final) det.",
+            "mean": "son1 (son) det."
+        },
+        {
+            "word": "late adj., adv.",
+            "mean": "geç"
+        },
+        {
+            "word": "later adv.",
+            "mean": "sonradan"
+        },
+        {
+            "word": "laugh v., n.",
+            "mean": "gülmek"
+        },
+        {
+            "word": "learn v.",
+            "mean": "öğrenmek"
+        },
+        {
+            "word": "leave v.",
+            "mean": "ayrılmak"
+        },
+        {
+            "word": "left adj., adv., n.",
+            "mean": "soldan adj."
+        },
+        {
+            "word": "leg n.",
+            "mean": "bacak"
+        },
+        {
+            "word": "lesson n.",
+            "mean": "ders"
+        },
+        {
+            "word": "let v.",
+            "mean": "izin vermek"
+        },
+        {
+            "word": "letter n.",
+            "mean": "mektup"
+        },
+        {
+            "word": "library n.",
+            "mean": "kütüphane"
+        },
+        {
+            "word": "lie1 v.",
+            "mean": "yalan1"
+        },
+        {
+            "word": "life n.",
+            "mean": "yaşam"
+        },
+        {
+            "word": "light (from the sun/a lamp) n.,",
+            "mean": "ışık (güneşten / lambadan) n.,"
+        },
+        {
+            "word": "adj.",
+            "mean": "adj."
+        },
+        {
+            "word": "like (similar) prep.",
+            "mean": "gibi (benzer) hazırlık."
+        },
+        {
+            "word": "like (find sb/sth pleasant) v.",
+            "mean": "gibi (bulmak sb / sth hoş)"
+        },
+        {
+            "word": "line n.",
+            "mean": "çizgi"
+        },
+        {
+            "word": "lion n.",
+            "mean": "aslan"
+        },
+        {
+            "word": "list n., v.",
+            "mean": "liste n., v."
+        },
+        {
+            "word": "listen v.",
+            "mean": "dinlemek"
+        },
+        {
+            "word": "little adj., det./pron.",
+            "mean": "küçük"
+        },
+        {
+            "word": "live1 v.",
+            "mean": "canlı1"
+        },
+        {
+            "word": "local adj.",
+            "mean": "yerel"
+        },
+        {
+            "word": "long1 adj., adv.",
+            "mean": "long1 adj."
+        },
+        {
+            "word": "look v.",
+            "mean": "bakmak"
+        },
+        {
+            "word": "lose v.",
+            "mean": "kaybetmek"
+        },
+        {
+            "word": "lot pron., det., adv.",
+            "mean": "lot pron., det., adv."
+        },
+        {
+            "word": "love n., v.",
+            "mean": "aşk"
+        },
+        {
+            "word": "lunch n.",
+            "mean": "öğle yemeği"
+        },
+        {
+            "word": "machine n.",
+            "mean": "makine"
+        },
+        {
+            "word": "magazine n.",
+            "mean": "dergi"
+        },
+        {
+            "word": "main adj.",
+            "mean": "ana"
+        },
+        {
+            "word": "make v.",
+            "mean": "yapmak"
+        },
+        {
+            "word": "man n.",
+            "mean": "erkek"
+        },
+        {
+            "word": "many det./pron.",
+            "mean": "birçok det./pron."
+        },
+        {
+            "word": "map n.",
+            "mean": "harita"
+        },
+        {
+            "word": "March n.",
+            "mean": "Mart n."
+        },
+        {
+            "word": "market n.",
+            "mean": "pazar"
+        },
+        {
+            "word": "married adj.",
+            "mean": "evli"
+        },
+        {
+            "word": "match (contest/correspond) n., v.",
+            "mean": "maç (yarışma / yazışma)"
+        },
+        {
+            "word": "May n.",
+            "mean": "Mayıs"
+        },
+        {
+            "word": "maybe adv.",
+            "mean": "belki"
+        },
+        {
+            "word": "me pron.",
+            "mean": "bana göre."
+        },
+        {
+            "word": "meal n.",
+            "mean": "yemek"
+        },
+        {
+            "word": "mean v.",
+            "mean": "ortalama"
+        },
+        {
+            "word": "meaning n.",
+            "mean": "anlamı"
+        },
+        {
+            "word": "meat n.",
+            "mean": "et"
+        },
+        {
+            "word": "meet v.",
+            "mean": "buluşmak"
+        },
+        {
+            "word": "meeting n.",
+            "mean": "toplantı"
+        },
+        {
+            "word": "member n.",
+            "mean": "üye"
+        },
+        {
+            "word": "menu n.",
+            "mean": "menü"
+        },
+        {
+            "word": "message n.",
+            "mean": "mesaj"
+        },
+        {
+            "word": "metre n.",
+            "mean": "metre"
+        },
+        {
+            "word": "midnight n.",
+            "mean": "gece yarısı"
+        },
+        {
+            "word": "mile n.",
+            "mean": "mil"
+        },
+        {
+            "word": "milk n.",
+            "mean": "süt"
+        },
+        {
+            "word": "million number",
+            "mean": "milyon numara"
+        },
+        {
+            "word": "minute1 n.",
+            "mean": "dakika1"
+        },
+        {
+            "word": "miss v.",
+            "mean": "bayan"
+        },
+        {
+            "word": "mistake n.",
+            "mean": "hata"
+        },
+        {
+            "word": "model n.",
+            "mean": "model"
+        },
+        {
+            "word": "modern adj.",
+            "mean": "modern"
+        },
+        {
+            "word": "moment n.",
+            "mean": "an"
+        },
+        {
+            "word": "Monday n.",
+            "mean": "Pazartesi"
+        },
+        {
+            "word": "money n.",
+            "mean": "para"
+        },
+        {
+            "word": "month n.",
+            "mean": "ay"
+        },
+        {
+            "word": "more det./pron., adv.",
+            "mean": "daha fazla det./pron., adv."
+        },
+        {
+            "word": "morning n.",
+            "mean": "sabah"
+        },
+        {
+            "word": "most det./pron., adv.",
+            "mean": "çoğu det./pron., adv."
+        },
+        {
+            "word": "mother n.",
+            "mean": "anne"
+        },
+        {
+            "word": "mountain n.",
+            "mean": "dağ"
+        },
+        {
+            "word": "mouse n.",
+            "mean": "fare"
+        },
+        {
+            "word": "mouth n.",
+            "mean": "ağız"
+        },
+        {
+            "word": "move v.",
+            "mean": "hareket etmek"
+        },
+        {
+            "word": "movie n.",
+            "mean": "film"
+        },
+        {
+            "word": "much det./pron., adv.",
+            "mean": "çok det./pron., zarf"
+        },
+        {
+            "word": "mum n.",
+            "mean": "anne"
+        },
+        {
+            "word": "museum n.",
+            "mean": "müze"
+        },
+        {
+            "word": "music n.",
+            "mean": "müzik"
+        },
+        {
+            "word": "must modal v.",
+            "mean": "kalıcı olmalı"
+        },
+        {
+            "word": "my det.",
+            "mean": "det."
+        },
+        {
+            "word": "name n., v.",
+            "mean": "ad n., v."
+        },
+        {
+            "word": "natural adj.",
+            "mean": "doğal"
+        },
+        {
+            "word": "near prep., adj., adv.",
+            "mean": "yakın hazırlık, adj."
+        },
+        {
+            "word": "need v.",
+            "mean": "ihtiyaç"
+        },
+        {
+            "word": "negative adj.",
+            "mean": "olumsuz"
+        },
+        {
+            "word": "neighbour n.",
+            "mean": "komşu"
+        },
+        {
+            "word": "never adv.",
+            "mean": "asla"
+        },
+        {
+            "word": "new adj.",
+            "mean": "yeni"
+        },
+        {
+            "word": "news n.",
+            "mean": "haberler"
+        },
+        {
+            "word": "newspaper n.",
+            "mean": "gazete"
+        },
+        {
+            "word": "next adj., adv.",
+            "mean": "sonraki"
+        },
+        {
+            "word": "next to prep.",
+            "mean": "hazırlığın yanında."
+        },
+        {
+            "word": "nice adj.",
+            "mean": "güzel"
+        },
+        {
+            "word": "night n.",
+            "mean": "gece"
+        },
+        {
+            "word": "nine number",
+            "mean": "dokuz numara"
+        },
+        {
+            "word": "nineteen number",
+            "mean": "on dokuz numara"
+        },
+        {
+            "word": "ninety number",
+            "mean": "doksan numara"
+        },
+        {
+            "word": "no exclam., det.",
+            "mean": "ünlem yok, det."
+        },
+        {
+            "word": "no one pron.",
+            "mean": "kimse pron."
+        },
+        {
+            "word": "nobody pron.",
+            "mean": "kimse pron."
+        },
+        {
+            "word": "north n., adj., adv.",
+            "mean": "kuzey, adj."
+        },
+        {
+            "word": "nose n.",
+            "mean": "burun"
+        },
+        {
+            "word": "not adv.",
+            "mean": "değil"
+        },
+        {
+            "word": "note n.",
+            "mean": "On değil."
+        },
+        {
+            "word": "nothing pron.",
+            "mean": "hiçbir şey"
+        },
+        {
+            "word": "November n.",
+            "mean": "Kasım"
+        },
+        {
+            "word": "now adv.",
+            "mean": "şimdi"
+        },
+        {
+            "word": "number n.",
+            "mean": "sayı"
+        },
+        {
+            "word": "nurse n.",
+            "mean": "hemşire"
+        },
+        {
+            "word": "object n.",
+            "mean": "nesne"
+        },
+        {
+            "word": "o’clock adv.",
+            "mean": "saat"
+        },
+        {
+            "word": "October n.",
+            "mean": "Ekim"
+        },
+        {
+            "word": "of prep.",
+            "mean": "hazırlık"
+        },
+        {
+            "word": "off adv., prep.",
+            "mean": "kapalı"
+        },
+        {
+            "word": "office n.",
+            "mean": "ofis"
+        },
+        {
+            "word": "often adv.",
+            "mean": "sıklıkla"
+        },
+        {
+            "word": "oh exclam.",
+            "mean": "oh exclam."
+        },
+        {
+            "word": "OK exclam., adj./adv.",
+            "mean": "Tamam exclam., Adj./adv."
+        },
+        {
+            "word": "old adj.",
+            "mean": "eski"
+        },
+        {
+            "word": "on prep., adv.",
+            "mean": "hazırlık."
+        },
+        {
+            "word": "once adv.",
+            "mean": "bir kez"
+        },
+        {
+            "word": "one number/det., pron.",
+            "mean": "bir numara / det., pron."
+        },
+        {
+            "word": "onion n.",
+            "mean": "soğan"
+        },
+        {
+            "word": "online adj., adv.",
+            "mean": "çevrimiçi adj."
+        },
+        {
+            "word": "only adj., adv.",
+            "mean": "sadece"
+        },
+        {
+            "word": "open adj., v.",
+            "mean": "açık adj."
+        },
+        {
+            "word": "opinion n.",
+            "mean": "görüş"
+        },
+        {
+            "word": "opposite adj., n., prep., adv.",
+            "mean": "zıt sıfat, n., hazırlık, zarf"
+        },
+        {
+            "word": "or conj.",
+            "mean": "veya konj."
+        },
+        {
+            "word": "orange n., adj.",
+            "mean": "turuncu"
+        },
+        {
+            "word": "order n., v.",
+            "mean": "sipariş"
+        },
+        {
+            "word": "other adj./pron.",
+            "mean": "diğer adj./pron."
+        },
+        {
+            "word": "our det.",
+            "mean": "bizim det."
+        },
+        {
+            "word": "out adv./prep.",
+            "mean": "adv./prep."
+        },
+        {
+            "word": "outside adv.",
+            "mean": "dış"
+        },
+        {
+            "word": "over prep., adv.",
+            "mean": "aşırı hazırlık."
+        },
+        {
+            "word": "own adj./pron.",
+            "mean": "kendi adj./pron."
+        },
+        {
+            "word": "page n.",
+            "mean": "sayfa"
+        },
+        {
+            "word": "paint v., n.",
+            "mean": "boya"
+        },
+        {
+            "word": "painting n.",
+            "mean": "boyama"
+        },
+        {
+            "word": "pair n.",
+            "mean": "çift"
+        },
+        {
+            "word": "paper n.",
+            "mean": "kağıt"
+        },
+        {
+            "word": "paragraph n.",
+            "mean": "paragraf"
+        },
+        {
+            "word": "parent n.",
+            "mean": "ebeveyn"
+        },
+        {
+            "word": "park n., v.",
+            "mean": "park"
+        },
+        {
+            "word": "part n.",
+            "mean": "bölüm"
+        },
+        {
+            "word": "partner n.",
+            "mean": "ortak"
+        },
+        {
+            "word": "party n.",
+            "mean": "parti"
+        },
+        {
+            "word": "passport n.",
+            "mean": "pasaport"
+        },
+        {
+            "word": "past adj., n., prep.",
+            "mean": "geçmiş, n., hazırlık."
+        },
+        {
+            "word": "pay v.",
+            "mean": "ödemek"
+        },
+        {
+            "word": "pen n.",
+            "mean": "kalem"
+        },
+        {
+            "word": "pencil n.",
+            "mean": "kurşun kalem"
+        },
+        {
+            "word": "people n.",
+            "mean": "insanlar"
+        },
+        {
+            "word": "pepper n.",
+            "mean": "biber"
+        },
+        {
+            "word": "perfect adj.",
+            "mean": "mükemmel"
+        },
+        {
+            "word": "period n.",
+            "mean": "dönem"
+        },
+        {
+            "word": "person n.",
+            "mean": "kişi"
+        },
+        {
+            "word": "personal adj.",
+            "mean": "kişisel"
+        },
+        {
+            "word": "phone n., v.",
+            "mean": "telefon"
+        },
+        {
+            "word": "photo n.",
+            "mean": "fotoğraf"
+        },
+        {
+            "word": "photograph n.",
+            "mean": "fotoğraf"
+        },
+        {
+            "word": "phrase n.",
+            "mean": "ifade"
+        },
+        {
+            "word": "piano n.",
+            "mean": "piyano"
+        },
+        {
+            "word": "picture n.",
+            "mean": "resim"
+        },
+        {
+            "word": "piece n.",
+            "mean": "parça"
+        },
+        {
+            "word": "pig n.",
+            "mean": "domuz"
+        },
+        {
+            "word": "pink adj., n.",
+            "mean": "pembe adj."
+        },
+        {
+            "word": "place n.",
+            "mean": "yer"
+        },
+        {
+            "word": "plan n., v.",
+            "mean": "plan"
+        },
+        {
+            "word": "plane n.",
+            "mean": "düzlem"
+        },
+        {
+            "word": "plant n.",
+            "mean": "bitki"
+        },
+        {
+            "word": "play v., n.",
+            "mean": "oynamak"
+        },
+        {
+            "word": "player n.",
+            "mean": "oyuncu"
+        },
+        {
+            "word": "please exclam.",
+            "mean": "lütfen ünlem."
+        },
+        {
+            "word": "point n.",
+            "mean": "nokta"
+        },
+        {
+            "word": "police n.",
+            "mean": "polis"
+        },
+        {
+            "word": "policeman n.",
+            "mean": "polis memuru"
+        },
+        {
+            "word": "pool n.",
+            "mean": "havuz"
+        },
+        {
+            "word": "poor adj.",
+            "mean": "fakir"
+        },
+        {
+            "word": "popular adj.",
+            "mean": "popüler"
+        },
+        {
+            "word": "positive adj.",
+            "mean": "olumlu"
+        },
+        {
+            "word": "possible adj.",
+            "mean": "olası"
+        },
+        {
+            "word": "post n., v.",
+            "mean": "gönderi"
+        },
+        {
+            "word": "potato n.",
+            "mean": "patates"
+        },
+        {
+            "word": "pound n.",
+            "mean": "pound"
+        },
+        {
+            "word": "practice n.",
+            "mean": "uygulama"
+        },
+        {
+            "word": "practise v.",
+            "mean": "pratik yapmak"
+        },
+        {
+            "word": "prefer v.",
+            "mean": "tercih etmek"
+        },
+        {
+            "word": "prepare v.",
+            "mean": "hazırlamak"
+        },
+        {
+            "word": "present adj., n.",
+            "mean": "mevcut"
+        },
+        {
+            "word": "pretty adj., adv.",
+            "mean": "oldukça adj."
+        },
+        {
+            "word": "price n.",
+            "mean": "fiyat"
+        },
+        {
+            "word": "probably adv.",
+            "mean": "muhtemelen"
+        },
+        {
+            "word": "problem n.",
+            "mean": "problem"
+        },
+        {
+            "word": "product n.",
+            "mean": "ürün"
+        },
+        {
+            "word": "programme n.",
+            "mean": "program"
+        },
+        {
+            "word": "project n.",
+            "mean": "proje"
+        },
+        {
+            "word": "purple adj., n.",
+            "mean": "mor adj."
+        },
+        {
+            "word": "put v.",
+            "mean": "koymak"
+        },
+        {
+            "word": "quarter n.",
+            "mean": "çeyrek"
+        },
+        {
+            "word": "question n.",
+            "mean": "soru"
+        },
+        {
+            "word": "quick adj.",
+            "mean": "hızlı"
+        },
+        {
+            "word": "quickly adv.",
+            "mean": "hızlı bir şekilde"
+        },
+        {
+            "word": "quiet adj.",
+            "mean": "sessiz"
+        },
+        {
+            "word": "quite adv.",
+            "mean": "oldukça"
+        },
+        {
+            "word": "radio n.",
+            "mean": "radyo"
+        },
+        {
+            "word": "rain n., v.",
+            "mean": "yağmur"
+        },
+        {
+            "word": "read v.",
+            "mean": "okumak"
+        },
+        {
+            "word": "reader n.",
+            "mean": "okuyucu"
+        },
+        {
+            "word": "reading n.",
+            "mean": "okuma"
+        },
+        {
+            "word": "ready adj.",
+            "mean": "hazır"
+        },
+        {
+            "word": "real adj.",
+            "mean": "gerçek"
+        },
+        {
+            "word": "really adv.",
+            "mean": "gerçekten"
+        },
+        {
+            "word": "reason n.",
+            "mean": "sebep"
+        },
+        {
+            "word": "red adj., n.",
+            "mean": "kırmızı"
+        },
+        {
+            "word": "relax v.",
+            "mean": "rahatlamak"
+        },
+        {
+            "word": "remember v.",
+            "mean": "hatırlamak"
+        },
+        {
+            "word": "repeat v.",
+            "mean": "tekrarlamak"
+        },
+        {
+            "word": "report n.",
+            "mean": "rapor"
+        },
+        {
+            "word": "restaurant n.",
+            "mean": "restoran"
+        },
+        {
+            "word": "result n.",
+            "mean": "sonuç"
+        },
+        {
+            "word": "return v., n.",
+            "mean": "dönüş"
+        },
+        {
+            "word": "rice n.",
+            "mean": "pirinç"
+        },
+        {
+            "word": "rich adj.",
+            "mean": "zengin"
+        },
+        {
+            "word": "ride v.",
+            "mean": "binmek"
+        },
+        {
+            "word": "right adj., adv., n.",
+            "mean": "sağ adj."
+        },
+        {
+            "word": "river n.",
+            "mean": "nehir"
+        },
+        {
+            "word": "road n.",
+            "mean": "yol"
+        },
+        {
+            "word": "room n.",
+            "mean": "oda"
+        },
+        {
+            "word": "routine n.",
+            "mean": "rutin"
+        },
+        {
+            "word": "rule n.",
+            "mean": "kural"
+        },
+        {
+            "word": "run v.",
+            "mean": "koşmak"
+        },
+        {
+            "word": "sad adj.",
+            "mean": "üzgün"
+        },
+        {
+            "word": "salad n.",
+            "mean": "salata"
+        },
+        {
+            "word": "salt n.",
+            "mean": "tuz"
+        },
+        {
+            "word": "same adj., pron., adv.",
+            "mean": "aynı adj., pron.,"
+        },
+        {
+            "word": "sandwich n.",
+            "mean": "sandviç"
+        },
+        {
+            "word": "Saturday n.",
+            "mean": "Cumartesi"
+        },
+        {
+            "word": "say v.",
+            "mean": "demek"
+        },
+        {
+            "word": "school n.",
+            "mean": "okul"
+        },
+        {
+            "word": "science n.",
+            "mean": "bilim"
+        },
+        {
+            "word": "scientist n.",
+            "mean": "bilim adamı"
+        },
+        {
+            "word": "sea n.",
+            "mean": "deniz"
+        },
+        {
+            "word": "second1 (next after the first) det./",
+            "mean": "saniye1 (birincisinden sonra gelecek) det./"
+        },
+        {
+            "word": "number",
+            "mean": "numara"
+        },
+        {
+            "word": "second1 (unit of time) n.",
+            "mean": "saniye1 (zaman birimi)"
+        },
+        {
+            "word": "section n.",
+            "mean": "bölüm"
+        },
+        {
+            "word": "see v.",
+            "mean": "bkz."
+        },
+        {
+            "word": "sell v.",
+            "mean": "satmak"
+        },
+        {
+            "word": "send v.",
+            "mean": "göndermek"
+        },
+        {
+            "word": "sentence n.",
+            "mean": "cümle"
+        },
+        {
+            "word": "September n.",
+            "mean": "Eylül"
+        },
+        {
+            "word": "seven number",
+            "mean": "yedi numara"
+        },
+        {
+            "word": "seventeen number",
+            "mean": "on yedi numara"
+        },
+        {
+            "word": "seventy number",
+            "mean": "yetmiş sayı"
+        },
+        {
+            "word": "share v.",
+            "mean": "paylaşmak"
+        },
+        {
+            "word": "she pron.",
+            "mean": "pron."
+        },
+        {
+            "word": "sheep n.",
+            "mean": "koyun"
+        },
+        {
+            "word": "shirt n.",
+            "mean": "gömlek"
+        },
+        {
+            "word": "shoe n.",
+            "mean": "ayakkabı"
+        },
+        {
+            "word": "shop n., v.",
+            "mean": "dükkan"
+        },
+        {
+            "word": "shopping n.",
+            "mean": "alışveriş"
+        },
+        {
+            "word": "short adj.",
+            "mean": "kısa"
+        },
+        {
+            "word": "should modal v.",
+            "mean": "kalıcı olmalı"
+        },
+        {
+            "word": "show v., n.",
+            "mean": "gösteri"
+        },
+        {
+            "word": "shower n.",
+            "mean": "duş"
+        },
+        {
+            "word": "sick adj.",
+            "mean": "hasta"
+        },
+        {
+            "word": "similar adj.",
+            "mean": "benzer"
+        },
+        {
+            "word": "sing v.",
+            "mean": "şarkı söylemek"
+        },
+        {
+            "word": "singer n.",
+            "mean": "şarkıcı"
+        },
+        {
+            "word": "sister n.",
+            "mean": "kızkardeş"
+        },
+        {
+            "word": "sit v.",
+            "mean": "oturmak"
+        },
+        {
+            "word": "situation n.",
+            "mean": "durum"
+        },
+        {
+            "word": "six number",
+            "mean": "altı numara"
+        },
+        {
+            "word": "sixteen number",
+            "mean": "on altı numara"
+        },
+        {
+            "word": "sixty number",
+            "mean": "altmış sayı"
+        },
+        {
+            "word": "skill n.",
+            "mean": "beceri"
+        },
+        {
+            "word": "skirt n.",
+            "mean": "etek"
+        },
+        {
+            "word": "sleep v.",
+            "mean": "uyku"
+        },
+        {
+            "word": "slow adj.",
+            "mean": "yavaş"
+        },
+        {
+            "word": "small adj.",
+            "mean": "küçük"
+        },
+        {
+            "word": "snake n.",
+            "mean": "yılan"
+        },
+        {
+            "word": "snow n., v.",
+            "mean": "kar yağışı"
+        },
+        {
+            "word": "so adv., conj.",
+            "mean": "yani"
+        },
+        {
+            "word": "some det., pron.",
+            "mean": "bazı det., pron."
+        },
+        {
+            "word": "somebody pron.",
+            "mean": "birisi pron."
+        },
+        {
+            "word": "someone pron.",
+            "mean": "birisi pron."
+        },
+        {
+            "word": "something pron.",
+            "mean": "bir şey."
+        },
+        {
+            "word": "sometimes adv.",
+            "mean": "bazen"
+        },
+        {
+            "word": "son n.",
+            "mean": "oğlu"
+        },
+        {
+            "word": "song n.",
+            "mean": "şarkı"
+        },
+        {
+            "word": "soon adv.",
+            "mean": "yakında"
+        },
+        {
+            "word": "sorry adj., exclam.",
+            "mean": "üzgünüm adj."
+        },
+        {
+            "word": "sound n., v.",
+            "mean": "ses"
+        },
+        {
+            "word": "soup n.",
+            "mean": "çorba"
+        },
+        {
+            "word": "south n., adj., adv.",
+            "mean": "güney n., adj."
+        },
+        {
+            "word": "space n.",
+            "mean": "boşluk"
+        },
+        {
+            "word": "speak v.",
+            "mean": "konuşmak"
+        },
+        {
+            "word": "special adj.",
+            "mean": "özel"
+        },
+        {
+            "word": "spell v.",
+            "mean": "büyü"
+        },
+        {
+            "word": "spelling n.",
+            "mean": "yazım"
+        },
+        {
+            "word": "spend v.",
+            "mean": "harcamak"
+        },
+        {
+            "word": "sport n.",
+            "mean": "spor"
+        },
+        {
+            "word": "spring n.",
+            "mean": "bahar"
+        },
+        {
+            "word": "stand v.",
+            "mean": "durmak"
+        },
+        {
+            "word": "star n.",
+            "mean": "yıldız"
+        },
+        {
+            "word": "start v.",
+            "mean": "Star TV."
+        },
+        {
+            "word": "statement n.",
+            "mean": "ifade"
+        },
+        {
+            "word": "station n.",
+            "mean": "istasyon"
+        },
+        {
+            "word": "stay v.",
+            "mean": "kalmak"
+        },
+        {
+            "word": "still adv.",
+            "mean": "hala"
+        },
+        {
+            "word": "stop v., n.",
+            "mean": "durmak"
+        },
+        {
+            "word": "story n.",
+            "mean": "hikaye"
+        },
+        {
+            "word": "street n.",
+            "mean": "sokak"
+        },
+        {
+            "word": "strong adj.",
+            "mean": "güçlü"
+        },
+        {
+            "word": "student n.",
+            "mean": "öğrenci"
+        },
+        {
+            "word": "study n., v.",
+            "mean": "çalışma"
+        },
+        {
+            "word": "style n.",
+            "mean": "stil"
+        },
+        {
+            "word": "subject n.",
+            "mean": "konu"
+        },
+        {
+            "word": "success n.",
+            "mean": "başarı"
+        },
+        {
+            "word": "sugar n.",
+            "mean": "şeker"
+        },
+        {
+            "word": "summer n.",
+            "mean": "yaz"
+        },
+        {
+            "word": "sun n.",
+            "mean": "güneş"
+        },
+        {
+            "word": "Sunday n.",
+            "mean": "Pazar"
+        },
+        {
+            "word": "supermarket n.",
+            "mean": "süpermarket"
+        },
+        {
+            "word": "sure adj.",
+            "mean": "elbette"
+        },
+        {
+            "word": "sweater n.",
+            "mean": "kazak"
+        },
+        {
+            "word": "swim v.",
+            "mean": "yüzmek"
+        },
+        {
+            "word": "swimming n.",
+            "mean": "yüzme"
+        },
+        {
+            "word": "table n.",
+            "mean": "tablo"
+        },
+        {
+            "word": "take v.",
+            "mean": "almak"
+        },
+        {
+            "word": "talk v.",
+            "mean": "konuşmak"
+        },
+        {
+            "word": "tall adj.",
+            "mean": "uzun"
+        },
+        {
+            "word": "taxi n.",
+            "mean": "taksi"
+        },
+        {
+            "word": "tea n.",
+            "mean": "çay"
+        },
+        {
+            "word": "teach v.",
+            "mean": "öğretmek"
+        },
+        {
+            "word": "teacher n.",
+            "mean": "öğretmen"
+        },
+        {
+            "word": "team n.",
+            "mean": "takım"
+        },
+        {
+            "word": "teenager n.",
+            "mean": "genç"
+        },
+        {
+            "word": "telephone n., v.",
+            "mean": "telefon"
+        },
+        {
+            "word": "television n.",
+            "mean": "televizyon"
+        },
+        {
+            "word": "tell v.",
+            "mean": "anlatmak"
+        },
+        {
+            "word": "ten number",
+            "mean": "on numara"
+        },
+        {
+            "word": "tennis n.",
+            "mean": "tenis"
+        },
+        {
+            "word": "terrible adj.",
+            "mean": "korkunç"
+        },
+        {
+            "word": "test n., v.",
+            "mean": "test n., v."
+        },
+        {
+            "word": "text n.",
+            "mean": "metin"
+        },
+        {
+            "word": "than conj.",
+            "mean": "bağ."
+        },
+        {
+            "word": "thank v.",
+            "mean": "teşekkür etmek"
+        },
+        {
+            "word": "thanks exclam., n.",
+            "mean": "teşekkürler exclam., n."
+        },
+        {
+            "word": "that det., pron., conj.",
+            "mean": "bu det., pron., bağ."
+        },
+        {
+            "word": "the definite article",
+            "mean": "kesin makale"
+        },
+        {
+            "word": "theatre n.",
+            "mean": "tiyatro"
+        },
+        {
+            "word": "their det.",
+            "mean": "onların det."
+        },
+        {
+            "word": "them pron.",
+            "mean": "pron."
+        },
+        {
+            "word": "then adv.",
+            "mean": "sonra"
+        },
+        {
+            "word": "there adv.",
+            "mean": "orada"
+        },
+        {
+            "word": "they pron.",
+            "mean": "pron."
+        },
+        {
+            "word": "thing n.",
+            "mean": "şey"
+        },
+        {
+            "word": "think v.",
+            "mean": "düşünmek"
+        },
+        {
+            "word": "third number",
+            "mean": "üçüncü numara"
+        },
+        {
+            "word": "thirsty adj.",
+            "mean": "susuz"
+        },
+        {
+            "word": "thirteen number",
+            "mean": "on üç numara"
+        },
+        {
+            "word": "thirty number",
+            "mean": "otuz numara"
+        },
+        {
+            "word": "this det./pron.",
+            "mean": "bu det./pron."
+        },
+        {
+            "word": "thousand number",
+            "mean": "bin numara"
+        },
+        {
+            "word": "three number",
+            "mean": "üç numara"
+        },
+        {
+            "word": "through prep., adv.",
+            "mean": "hazırlık yoluyla,"
+        },
+        {
+            "word": "Thursday n.",
+            "mean": "Perşembe"
+        },
+        {
+            "word": "ticket n.",
+            "mean": "bilet"
+        },
+        {
+            "word": "time n.",
+            "mean": "zaman"
+        },
+        {
+            "word": "tired adj.",
+            "mean": "yorgun"
+        },
+        {
+            "word": "title n.",
+            "mean": "başlık"
+        },
+        {
+            "word": "to prep., infinitive marker",
+            "mean": "hazırlık, mastar"
+        },
+        {
+            "word": "today adv., n.",
+            "mean": "bugün"
+        },
+        {
+            "word": "together adv.",
+            "mean": "birlikte"
+        },
+        {
+            "word": "toilet n.",
+            "mean": "tuvalet"
+        },
+        {
+            "word": "tomato n.",
+            "mean": "domates"
+        },
+        {
+            "word": "tomorrow adv., n.",
+            "mean": "yarın"
+        },
+        {
+            "word": "tonight adv., n.",
+            "mean": "bu gece"
+        },
+        {
+            "word": "too adv.",
+            "mean": "çok"
+        },
+        {
+            "word": "tooth n.",
+            "mean": "diş"
+        },
+        {
+            "word": "topic n.",
+            "mean": "konu"
+        },
+        {
+            "word": "tourist n.",
+            "mean": "turist"
+        },
+        {
+            "word": "town n.",
+            "mean": "kasaba"
+        },
+        {
+            "word": "traffic n.",
+            "mean": "trafik"
+        },
+        {
+            "word": "train n.",
+            "mean": "tren"
+        },
+        {
+            "word": "travel v., n.",
+            "mean": "seyahat etmek"
+        },
+        {
+            "word": "tree n.",
+            "mean": "ağaç"
+        },
+        {
+            "word": "trip n.",
+            "mean": "gezi"
+        },
+        {
+            "word": "trousers n.",
+            "mean": "pantolon"
+        },
+        {
+            "word": "true adj.",
+            "mean": "gerçek"
+        },
+        {
+            "word": "try v.",
+            "mean": "denemek"
+        },
+        {
+            "word": "T-shirt n.",
+            "mean": "Tişört"
+        },
+        {
+            "word": "Tuesday n.",
+            "mean": "Salı"
+        },
+        {
+            "word": "turn v., n.",
+            "mean": "çevirmek"
+        },
+        {
+            "word": "TV n.",
+            "mean": "TV"
+        },
+        {
+            "word": "twelve number",
+            "mean": "on iki numara"
+        },
+        {
+            "word": "twenty number",
+            "mean": "yirmi numara"
+        },
+        {
+            "word": "twice adv.",
+            "mean": "iki kez"
+        },
+        {
+            "word": "two number",
+            "mean": "iki numara"
+        },
+        {
+            "word": "type n.",
+            "mean": "tip"
+        },
+        {
+            "word": "umbrella n.",
+            "mean": "şemsiye"
+        },
+        {
+            "word": "uncle n.",
+            "mean": "amca"
+        },
+        {
+            "word": "under prep., adv.",
+            "mean": "hazırlık aşamasında, zarf"
+        },
+        {
+            "word": "understand v.",
+            "mean": "anlamak"
+        },
+        {
+            "word": "university n.",
+            "mean": "üniversite"
+        },
+        {
+            "word": "until conj./prep.",
+            "mean": "bağl."
+        },
+        {
+            "word": "up adv., prep.",
+            "mean": "up."
+        },
+        {
+            "word": "upstairs adv.",
+            "mean": "üst kat"
+        },
+        {
+            "word": "us pron.",
+            "mean": "bize pron."
+        },
+        {
+            "word": "use v.",
+            "mean": "kullanmak"
+        },
+        {
+            "word": "useful adj.",
+            "mean": "yararlı"
+        },
+        {
+            "word": "usually adv.",
+            "mean": "genellikle"
+        },
+        {
+            "word": "vacation n.",
+            "mean": "tatil"
+        },
+        {
+            "word": "vegetable n.",
+            "mean": "sebze"
+        },
+        {
+            "word": "very adv.",
+            "mean": "çok"
+        },
+        {
+            "word": "video n.",
+            "mean": "video"
+        },
+        {
+            "word": "village n.",
+            "mean": "köy"
+        },
+        {
+            "word": "visit v., n.",
+            "mean": "ziyaret etmek"
+        },
+        {
+            "word": "visitor n.",
+            "mean": "ziyaretçi"
+        },
+        {
+            "word": "wait v.",
+            "mean": "beklemek"
+        },
+        {
+            "word": "waiter n.",
+            "mean": "garson"
+        },
+        {
+            "word": "wake v.",
+            "mean": "uyanmak"
+        },
+        {
+            "word": "walk v., n.",
+            "mean": "yürüyüş"
+        },
+        {
+            "word": "wall n.",
+            "mean": "duvar"
+        },
+        {
+            "word": "want v.",
+            "mean": "istemek"
+        },
+        {
+            "word": "warm adj.",
+            "mean": "sıcak"
+        },
+        {
+            "word": "wash v.",
+            "mean": "yıkamak"
+        },
+        {
+            "word": "watch v., n.",
+            "mean": "izlemek"
+        },
+        {
+            "word": "water n.",
+            "mean": "su"
+        },
+        {
+            "word": "way n.",
+            "mean": "yol"
+        },
+        {
+            "word": "we pron.",
+            "mean": "biz pron."
+        },
+        {
+            "word": "wear v.",
+            "mean": "giymek"
+        },
+        {
+            "word": "weather n.",
+            "mean": "hava durumu"
+        },
+        {
+            "word": "website n.",
+            "mean": "web sitesi"
+        },
+        {
+            "word": "Wednesday n.",
+            "mean": "Çarşamba"
+        },
+        {
+            "word": "week n.",
+            "mean": "hafta"
+        },
+        {
+            "word": "weekend n.",
+            "mean": "hafta sonu"
+        },
+        {
+            "word": "welcome exclam., v., adj.",
+            "mean": "exclam., v., adj."
+        },
+        {
+            "word": "well adv., adj., exclam.",
+            "mean": "iyi."
+        },
+        {
+            "word": "west n., adj., adv.",
+            "mean": "batı n., adj., zarf"
+        },
+        {
+            "word": "what pron./det.",
+            "mean": "ne pron./det."
+        },
+        {
+            "word": "when adv., pron., conj.",
+            "mean": "ne zaman"
+        },
+        {
+            "word": "where adv., conj.",
+            "mean": "nerede"
+        },
+        {
+            "word": "which pron./det.",
+            "mean": "hangi pron./det."
+        },
+        {
+            "word": "white adj., n.",
+            "mean": "beyaz adj."
+        },
+        {
+            "word": "who pron.",
+            "mean": "kim pron."
+        },
+        {
+            "word": "why adv.",
+            "mean": "neden"
+        },
+        {
+            "word": "wife n.",
+            "mean": "eş"
+        },
+        {
+            "word": "will modal v.",
+            "mean": "kalıcı olacak"
+        },
+        {
+            "word": "win v.",
+            "mean": "kazanmak"
+        },
+        {
+            "word": "window n.",
+            "mean": "pencere"
+        },
+        {
+            "word": "wine n.",
+            "mean": "şarap"
+        },
+        {
+            "word": "winter n.",
+            "mean": "kış"
+        },
+        {
+            "word": "with prep.",
+            "mean": "hazırlık ile."
+        },
+        {
+            "word": "without prep.",
+            "mean": "hazırlıksız"
+        },
+        {
+            "word": "woman n.",
+            "mean": "kadın"
+        },
+        {
+            "word": "wonderful adj.",
+            "mean": "harika"
+        },
+        {
+            "word": "word n.",
+            "mean": "kelime"
+        },
+        {
+            "word": "work v., n.",
+            "mean": "çalışmak"
+        },
+        {
+            "word": "worker n.",
+            "mean": "işçi"
+        },
+        {
+            "word": "world n.",
+            "mean": "dünya"
+        },
+        {
+            "word": "would modal v.",
+            "mean": "kalıcı olmak"
+        },
+        {
+            "word": "write v.",
+            "mean": "yazmak"
+        },
+        {
+            "word": "writer n.",
+            "mean": "yazar"
+        },
+        {
+            "word": "writing n.",
+            "mean": "yazı"
+        },
+        {
+            "word": "wrong adj.",
+            "mean": "yanlış"
+        },
+        {
+            "word": "yeah exclam.",
+            "mean": "evet exclam."
+        },
+        {
+            "word": "year n.",
+            "mean": "burnunda tütmek."
+        },
+        {
+            "word": "yellow adj., n.",
+            "mean": "sarı adj."
+        },
+        {
+            "word": "yes exclam.",
+            "mean": "evet ünlem."
+        },
+        {
+            "word": "yesterday adv., n.",
+            "mean": "dün"
+        },
+        {
+            "word": "you pron.",
+            "mean": "sen pron."
+        },
+        {
+            "word": "young adj.",
+            "mean": "genç"
+        },
+        {
+            "word": "your det.",
+            "mean": "senin det."
+        },
+        {
+            "word": "yourself pron.",
+            "mean": "kendinizi pron"
+        }
+    ]
+}
